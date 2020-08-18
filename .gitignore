@@ -26,9 +26,9 @@ wheels/
 MANIFEST
 
 # Custom directory
-data/**/
-results/**/
-save/**/
+data/
+results/
+save/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
