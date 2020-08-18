@@ -1,4 +1,6 @@
+# add CBAMResNet
 
+![Screenshot from 2020-08-18 12-37-59](https://user-images.githubusercontent.com/52390523/90471126-4ccb8780-e158-11ea-9009-7718898ff86e.png)
 # Benchmarks for Object Detection in Aerial Images
 
 ## Introduction
